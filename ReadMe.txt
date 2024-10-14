@@ -1,4 +1,5 @@
 Binary Blasters é um projeto antigo que eu criei para uma Jam em 2023.
+https://gazzola.itch.io/binaryblasters (Link com a build atual do projeto)
 
 Estou enviando 2 vídeos. um 'Antigo', com o jogo apresentando o mínimo possível de juicy, efeitos, etc., e um 'Novo', com diversos exemplos de juice que apliquei no jogo.
 
